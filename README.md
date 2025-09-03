@@ -11,4 +11,4 @@ $ npm install
 $ npm run dev
 ```
 ## Live Link
-[Live Link]()
+[Live Link](https://educase-assignment-omega-five.vercel.app/)
